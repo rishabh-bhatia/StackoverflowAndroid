@@ -1,6 +1,10 @@
 # Time Taken 
 6hrs
 
+# Features
+1. Display data(Title, picture, answer count, etc)
+2. Get data from API.
+
 # Introduction
 Stackoverflow Android app is developed to display questions with a bunch of other information in a scrollable UI. The mission of this app is to be able to see questions on the topic "Android" and then be able to open them and read the answers eventually.
 
